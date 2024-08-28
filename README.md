@@ -1,6 +1,6 @@
 # Online-Bus-Booking-System
 HTML, CSS, PHP, MYSQL
-SafariExpress is an online bus ticket booking and reservation software, built on the powerful open source language PHP and MySQL with Bootstrap framework that allows you to manage your bus inventory, fares, routes, schedules as well as your entire back office. It is a powerful software designed with the main intention of generating a dynamic and automated system for all bus booking and reservation operations. The SafariExpress will promote your fleet management to new and existing customers through a range of options.
+SmartTravel is an online bus ticket booking and reservation software, built on the powerful open source language PHP and MySQL with Bootstrap framework that allows you to manage your bus inventory, fares, routes, schedules as well as your entire back office. It is a powerful software designed with the main intention of generating a dynamic and automated system for all bus booking and reservation operations. The SmartTravel will promote your fleet management to new and existing customers through a range of options.
 
 Online Bus Booking System Modules
 ADMIN MODULE
