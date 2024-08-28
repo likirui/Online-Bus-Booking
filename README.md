@@ -19,8 +19,6 @@ Board Point Management
 
 Drop Point Management
 
-Promo Code management
-
 Gallery
 
 Add Agent
@@ -46,20 +44,11 @@ View and select the seat
 Use  promo code
 Book the ticket by selecting route, date of journey and the return date
 View available buses
-Payment integrated
 Brief overview of the technology:
 Front end: HTML, CSS, JavaScript
-
-HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
-CSS : (Cascading Style Sheets) Create attractive Layout
-Bootstrap : responsive design mobile freindly site
-JavaScript: it is a programming language, commonly use with web browsers.
 Back end: PHP, MySQL
 
-PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
-MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 Software Requirement(any one)
-WAMP Server
 XAMPP Server
 MAMP Server
 LAMP Server
@@ -70,9 +59,7 @@ Installation Steps
 Open phpmyadmin
 Create Database named bus.
 Import database bus.sql from downloaded folder(inside database)
-4. Open Your browser put inside "http://localhost/Online Bus Booking System
-
-visite https://
+4. Open Your browser put inside "http://localhost/Online-Bus-Booking-System
 
 Landing Page  ![smarttravel](https://github.com/user-attachments/assets/723cacb5-7249-46fd-a5c4-cd54bf212abb)
 
