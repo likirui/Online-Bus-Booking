@@ -74,4 +74,5 @@ Import database bus.sql from downloaded folder(inside database)
 
 visite https://
 
-Landing Page  <img width="960" alt="online-booking" src="https://github.com/user-attachments/assets/1ee94189-603b-4254-8e65-6522ed066365">
+Landing Page  ![smarttravel](https://github.com/user-attachments/assets/723cacb5-7249-46fd-a5c4-cd54bf212abb)
+
